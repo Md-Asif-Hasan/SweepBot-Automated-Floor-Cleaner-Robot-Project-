@@ -1,0 +1,4 @@
+Arduino IDE 2.x or Arduino CLI
+Arduino AVR Boards core (for Arduino Uno)
+Servo library (built-in)
+No external libraries required
