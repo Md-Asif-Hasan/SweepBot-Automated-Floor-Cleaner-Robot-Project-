@@ -1,4 +1,4 @@
-# SweepBot: Floor Mopper Module (Arduino Uno)
+# SweepBot: Floor Mopper Robot(Arduino Uno)
 
 This module implements the floor-mopping stage for SweepBot. After navigation (sound-following and obstacle avoidance) brings the robot to the target area, this code:
 - Wets the floor by running a small DC water pump.
